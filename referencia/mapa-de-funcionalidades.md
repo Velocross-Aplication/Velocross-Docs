@@ -7,7 +7,7 @@ Este mapa mostra onde as funções aparecem na versão 1.3.0. A disponibilidade 
 | [Nova inscrição](../inscricoes/gerenciar-inscricoes.md) | **Inscrição** | Organizador e gerente de inscrições | Disponível para o evento ativo. |
 | [Lista de inscritos](../inscricoes/gerenciar-inscricoes.md) | **Inscritos** | Organizador e gerente de inscrições | Permite consultar e manter registros conforme a permissão. |
 | Financeiro do evento | **Financeiro** | Organizador e gerente de inscrições | Exige acesso financeiro. |
-| Financeiro de uma inscrição | Lista de inscritos → inscrição → **Financeiro da inscrição** | Organizador e gerente de inscrições | Reúne recebimentos, devoluções e correções. |
+| [Financeiro de uma inscrição](../inscricoes/financeiro-da-inscricao.md) | Lista de inscritos → inscrição → **Financeiro da inscrição** | Organizador e gerente de inscrições | Reúne recebimentos, devoluções e correções. |
 | Categorias do evento | **Categorias** | Organizador e gerente de inscrições | Também reúne ordem das provas, fichas e relatórios por categoria. |
 | Categorias mescladas | **Mesclar categorias** | Organizador e gerente de inscrições | Somente no evento ativo e com acesso para atualizar inscrições. |
 | Cronometragem | **Cronometrista** ou tela inicial do cronometrista | Organizador e cronometrista | Aparece quando a regra do evento permite cronometragem. |
@@ -41,7 +41,7 @@ A opção depende da configuração de pontuação e da bateria. Quando exigido,
 
 ### Financeiro
 
-Os valores e ações financeiras são exibidos somente para usuários com acesso financeiro.
+O resumo do evento exige acesso ao relatório financeiro. Na inscrição individual, a consulta e as confirmações dependem das permissões de visualizar e confirmar inscrições. Por isso, um usuário pode visualizar os saldos sem possuir os botões de recebimento, devolução ou correção.
 
 ### Eventos históricos
 

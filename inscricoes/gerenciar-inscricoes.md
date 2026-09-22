@@ -126,7 +126,7 @@ Na criação da inscrição:
 
 Pacote, desconto e cortesia não são a mesma coisa. O pacote é aplicado automaticamente pelas categorias escolhidas; o desconto é informado manualmente; a cortesia deixa a inscrição sem cobrança.
 
-Registrar uma condição financeira no Race Manager não realiza nenhuma transação bancária. O controle detalhado de recebimentos e devoluções será apresentado na página de financeiro da inscrição.
+Registrar uma condição financeira no Race Manager não realiza nenhuma transação bancária. Consulte [Financeiro da inscrição](financeiro-da-inscricao.md) para controlar recebimentos, devoluções e correções.
 
 ## Consultar inscrições
 
@@ -203,7 +203,7 @@ Um cancelamento em lote pode concluir alguns registros e recusar outros. Sempre 
 
 - somente inscrições ativas do evento ativo podem ser canceladas;
 - o cancelamento é bloqueado quando uma das categorias já possui resultado publicado;
-- valores recebidos não são devolvidos automaticamente;
+- valores recebidos não são devolvidos automaticamente; consulte [Financeiro da inscrição](financeiro-da-inscricao.md) para registrar a devolução;
 - quando existir saldo a devolver, registre a devolução separadamente;
 - a inscrição cancelada permanece disponível no filtro **Canceladas**;
 - não existe reativação da mesma inscrição pela interface atual.
@@ -226,7 +226,7 @@ O termo contém dados pessoais do piloto. Não publique o arquivo nem use dados 
 
 Ao abrir **Inscritos** durante a consulta de um evento histórico, é possível pesquisar, filtrar, conferir detalhes, imprimir termos e consultar registros cancelados.
 
-O cadastro operacional fica em modo somente leitura: não é possível criar, editar ou cancelar inscrições sem voltar ao evento ativo correspondente. As operações financeiras possuem regras próprias e serão explicadas no capítulo específico.
+O cadastro operacional fica em modo somente leitura: não é possível criar, editar ou cancelar inscrições sem voltar ao evento ativo correspondente. As operações permitidas nesse contexto estão descritas em [Financeiro da inscrição](financeiro-da-inscricao.md).
 
 ## Checklist antes de atender o próximo piloto
 

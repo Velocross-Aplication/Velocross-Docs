@@ -18,6 +18,7 @@
 ## Inscrições
 
 - [Gerenciar inscrições](inscricoes/gerenciar-inscricoes.md)
+- [Financeiro da inscrição](inscricoes/financeiro-da-inscricao.md)
 
 ## Referência
 
