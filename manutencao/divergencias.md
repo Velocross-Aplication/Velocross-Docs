@@ -50,6 +50,14 @@ Este arquivo apoia a manutenção da documentação e não faz parte da navegaç
 
 **Decisão editorial:** orientar a recuperação por e-mail apenas para contas que possuem e-mail cadastrado. Colaboradores devem solicitar ao organizador a redefinição pela lista de usuários.
 
+### DOC-007 — Seleção de pacotes no formulário do evento
+
+**Frontend:** o formulário do evento mostra **Selecionar Pacotes**, envia uma lista de pacotes ao salvar e, ao editar, pode deduzir os pacotes a partir das categorias vinculadas.
+
+**Backend:** os contratos de criação e edição do evento não recebem pacotes. O cálculo de preço considera os vínculos entre cada categoria e seus pacotes.
+
+**Decisão editorial:** documentar que a aplicação de um pacote depende das categorias vinculadas dentro do cadastro do pacote ou da categoria. Não afirmar que marcar um pacote no formulário o vincula diretamente ao evento.
+
 ## Observações de navegação
 
 ### DOC-006 — Menu geral de relatórios sem atalho atual

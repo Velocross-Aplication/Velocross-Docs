@@ -26,7 +26,7 @@ comecando/
 organizacao-do-evento/
   eventos-ativos-e-historicos.md
   criar-e-configurar-evento.md
-  categorias-pacotes-e-termos.md
+  categorias-pacotes-e-regras.md
   equipe-do-evento.md
 inscricoes/
   realizar-inscricao.md

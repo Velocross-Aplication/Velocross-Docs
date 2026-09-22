@@ -28,8 +28,10 @@ Se este é o seu primeiro acesso, siga esta ordem:
 1. Leia a [visão geral](comecando/visao-geral.md).
 2. Consulte [acesso e primeiros passos](comecando/acesso-e-primeiros-passos.md).
 3. Entenda os [perfis e permissões](comecando/perfis-e-permissoes.md).
-4. Veja como funcionam os [eventos ativos e históricos](organizacao-do-evento/eventos-ativos-e-historicos.md).
-5. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
+4. Aprenda a [criar e configurar um evento](organizacao-do-evento/criar-e-configurar-evento.md).
+5. Configure [categorias, pacotes e regras](organizacao-do-evento/categorias-pacotes-e-regras.md).
+6. Veja como funcionam os [eventos ativos e históricos](organizacao-do-evento/eventos-ativos-e-historicos.md).
+7. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
 
 ## Como esta documentação está organizada
 
