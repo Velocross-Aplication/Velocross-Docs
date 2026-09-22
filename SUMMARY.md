@@ -15,6 +15,10 @@
 - [Eventos ativos e históricos](organizacao-do-evento/eventos-ativos-e-historicos.md)
 - [Usuários e equipe](organizacao-do-evento/equipe-do-evento.md)
 
+## Inscrições
+
+- [Gerenciar inscrições](inscricoes/gerenciar-inscricoes.md)
+
 ## Referência
 
 - [Mapa das funcionalidades](referencia/mapa-de-funcionalidades.md)

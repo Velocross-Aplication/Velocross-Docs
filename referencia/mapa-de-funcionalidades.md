@@ -4,8 +4,8 @@ Este mapa mostra onde as funções aparecem na versão 1.3.0. A disponibilidade 
 
 | Área | Onde acessar | Quem usa principalmente | Observações |
 | --- | --- | --- | --- |
-| Nova inscrição | **Inscrição** | Organizador e gerente de inscrições | Disponível para o evento ativo. |
-| Lista de inscritos | **Inscritos** | Organizador e gerente de inscrições | Permite consultar e manter registros conforme a permissão. |
+| [Nova inscrição](../inscricoes/gerenciar-inscricoes.md) | **Inscrição** | Organizador e gerente de inscrições | Disponível para o evento ativo. |
+| [Lista de inscritos](../inscricoes/gerenciar-inscricoes.md) | **Inscritos** | Organizador e gerente de inscrições | Permite consultar e manter registros conforme a permissão. |
 | Financeiro do evento | **Financeiro** | Organizador e gerente de inscrições | Exige acesso financeiro. |
 | Financeiro de uma inscrição | Lista de inscritos → inscrição → **Financeiro da inscrição** | Organizador e gerente de inscrições | Reúne recebimentos, devoluções e correções. |
 | Categorias do evento | **Categorias** | Organizador e gerente de inscrições | Também reúne ordem das provas, fichas e relatórios por categoria. |

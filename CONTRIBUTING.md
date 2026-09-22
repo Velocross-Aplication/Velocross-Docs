@@ -29,9 +29,8 @@ organizacao-do-evento/
   categorias-pacotes-e-regras.md
   equipe-do-evento.md
 inscricoes/
-  realizar-inscricao.md
-  gerenciar-inscritos.md
-  financeiro-das-inscricoes.md
+  gerenciar-inscricoes.md
+  financeiro-da-inscricao.md
 dia-da-prova/
   ordem-e-baterias.md
   categorias-mescladas.md
