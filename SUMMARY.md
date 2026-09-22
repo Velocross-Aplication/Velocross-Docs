@@ -13,6 +13,7 @@
 - [Criar e configurar um evento](organizacao-do-evento/criar-e-configurar-evento.md)
 - [Categorias, pacotes e regras](organizacao-do-evento/categorias-pacotes-e-regras.md)
 - [Eventos ativos e históricos](organizacao-do-evento/eventos-ativos-e-historicos.md)
+- [Usuários e equipe](organizacao-do-evento/equipe-do-evento.md)
 
 ## Referência
 

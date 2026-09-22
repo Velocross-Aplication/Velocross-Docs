@@ -66,6 +66,22 @@ Existe uma tela geral de relatórios no código do frontend, mas ela não está 
 
 **Decisão editorial:** documentar somente os caminhos que o usuário consegue abrir pela navegação atual.
 
+### DOC-008 — “Excluir” usuário desativa a conta
+
+**Frontend:** a lista de usuários exibe a ação **Excluir** e consulta somente colaboradores ativos. Depois da ação, a conta deixa de aparecer na lista e não existe uma opção de reativação na navegação atual.
+
+**Backend:** a operação usada pelo aplicativo altera o estado da conta para desativado. Existe uma operação de reativação no contrato, mas ela não está disponível na interface atual.
+
+**Decisão editorial:** descrever a ação como retirada ou desativação do acesso, sem afirmar que os dados são excluídos permanentemente. Alertar que a versão 1.3.0 não oferece reativação pelo aplicativo.
+
+### DOC-009 — Tela de eventos por usuário sem acesso pela navegação
+
+**Frontend:** existe uma tela de eventos por usuário no código, mas nenhum caminho da navegação atual abre essa tela. O cadastro e a edição de colaboradores não apresentam seleção de eventos.
+
+**Backend:** os contratos atuais de criação e edição de colaboradores não recebem uma lista de eventos. Durante a operação, o colaborador acompanha o evento ativo do organizador.
+
+**Decisão editorial:** não documentar atribuição de eventos por colaborador. Orientar que a equipe trabalha no evento ativo selecionado pelo organizador.
+
 ## Como encerrar uma divergência
 
 Ao resolver um item:

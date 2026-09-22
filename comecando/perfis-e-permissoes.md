@@ -2,6 +2,12 @@
 
 Cada usuário possui um perfil de trabalho. O perfil define a tela inicial e o conjunto de permissões usado pelo sistema.
 
+## Como as permissões são definidas
+
+Na versão 1.3.0, as permissões são aplicadas automaticamente conforme o perfil escolhido. O organizador não seleciona permissões uma a uma.
+
+Para mudar o acesso de um colaborador, o organizador deve editar o perfil da conta. Depois da alteração, peça à pessoa para sair e entrar novamente, garantindo que os menus sejam atualizados.
+
 ## Organizador
 
 É o responsável pela configuração e pela operação geral.
@@ -79,3 +85,7 @@ Além disso, algumas opções dependem do evento:
 - Não compartilhe senhas entre integrantes da equipe.
 - Ao trocar a função de uma pessoa, revise o perfil antes do próximo evento.
 - Se uma conta não deve mais ser usada, o organizador deve desativá-la.
+
+## Próximo passo
+
+Consulte [Usuários e equipe](../organizacao-do-evento/equipe-do-evento.md) para criar contas, editar perfis, redefinir senhas e retirar acessos.
