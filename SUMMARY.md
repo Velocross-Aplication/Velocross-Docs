@@ -23,6 +23,7 @@
 ## Dia da prova
 
 - [Ordem das provas e programação](dia-da-prova/ordem-e-baterias.md)
+- [Categorias mescladas](dia-da-prova/categorias-mescladas.md)
 
 ## Referência
 

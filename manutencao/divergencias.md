@@ -58,6 +58,14 @@ Este arquivo apoia a manutenção da documentação e não faz parte da navegaç
 
 **Decisão editorial:** documentar que a aplicação de um pacote depende das categorias vinculadas dentro do cadastro do pacote ou da categoria. Não afirmar que marcar um pacote no formulário o vincula diretamente ao evento.
 
+### DOC-010 — Mensagem da mesclagem não contempla resultados manuais
+
+**Frontend:** a prévia informa que a mesclagem afeta apenas a tela do cronometrista. Porém, quando a cronometragem está desabilitada, as telas atuais de lançamento manual também identificam a bateria física mesclada e mantêm o resultado separado por categoria.
+
+**Backend:** os contratos permitem criar a mesclagem na política **Duplicado sem cronometragem** e usam a bateria física no fluxo de resultados manuais.
+
+**Decisão editorial:** explicar que o efeito operacional depende da regra de número da moto: a bateria aparece na cronometragem quando ela está habilitada e organiza o lançamento manual quando está desabilitada. Manter claro que inscrições, classificações e pontuação continuam separadas por categoria.
+
 ## Observações de navegação
 
 ### DOC-006 — Menu geral de relatórios sem atalho atual

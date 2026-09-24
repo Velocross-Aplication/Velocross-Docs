@@ -2,7 +2,7 @@
 
 A ordem das provas define a sequência das baterias no evento. Na mesma tela, você também pode inserir treinos, manutenções de pista, intervalos, premiações e outros momentos da programação.
 
-Prepare essa sequência depois de conferir as [categorias, os pacotes e as regras do evento](../organizacao-do-evento/categorias-pacotes-e-regras.md). Se duas categorias forem correr juntas, faça primeiro a mesclagem e deixe a revisão final da ordem para depois.
+Prepare essa sequência depois de conferir as [categorias, os pacotes e as regras do evento](../organizacao-do-evento/categorias-pacotes-e-regras.md). Se duas categorias forem correr juntas, faça primeiro a [mesclagem](categorias-mescladas.md) e deixe a revisão final da ordem para depois.
 
 ## Antes de começar
 
@@ -139,7 +139,7 @@ Por isso, mesmo quando a sequência inicial estiver correta, revise a programaç
 
 ## Alterações em categorias mescladas
 
-Ao criar uma bateria mesclada, o grupo assume a posição da categoria que aparecia primeiro. Ao desfazer a mesclagem, as categorias recuperam sua ordem relativa individual.
+Ao criar uma [bateria mesclada](categorias-mescladas.md), o grupo assume a posição da categoria que aparecia primeiro. Ao desfazer a mesclagem, as categorias recuperam sua ordem relativa individual.
 
 Depois de qualquer uma dessas operações:
 
