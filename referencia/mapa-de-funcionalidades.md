@@ -9,6 +9,7 @@ Este mapa mostra onde as funções aparecem na versão 1.3.0. A disponibilidade 
 | Financeiro do evento | **Financeiro** | Organizador e gerente de inscrições | Exige acesso financeiro. |
 | [Financeiro de uma inscrição](../inscricoes/financeiro-da-inscricao.md) | Lista de inscritos → inscrição → **Financeiro da inscrição** | Organizador e gerente de inscrições | Reúne recebimentos, devoluções e correções. |
 | Categorias do evento | **Categorias** | Organizador e gerente de inscrições | Também reúne ordem das provas, fichas e relatórios por categoria. |
+| [Ordem das provas e programação](../dia-da-prova/ordem-e-baterias.md) | **Categorias** → **Ordem das Provas** | Organizador e gerente de inscrições | Somente no evento ativo; organiza baterias e intervalos da programação. |
 | Categorias mescladas | **Mesclar categorias** | Organizador e gerente de inscrições | Somente no evento ativo e com acesso para atualizar inscrições. |
 | Cronometragem | **Cronometrista** ou tela inicial do cronometrista | Organizador e cronometrista | Aparece quando a regra do evento permite cronometragem. |
 | Lançamento manual | **Lançamento manual de resultados** | Organizador, gerente de inscrições e cronometrista | Usado quando a política do evento desabilita a cronometragem. |

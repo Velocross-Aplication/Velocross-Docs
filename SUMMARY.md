@@ -20,6 +20,10 @@
 - [Gerenciar inscrições](inscricoes/gerenciar-inscricoes.md)
 - [Financeiro da inscrição](inscricoes/financeiro-da-inscricao.md)
 
+## Dia da prova
+
+- [Ordem das provas e programação](dia-da-prova/ordem-e-baterias.md)
+
 ## Referência
 
 - [Mapa das funcionalidades](referencia/mapa-de-funcionalidades.md)

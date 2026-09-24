@@ -34,7 +34,8 @@ Se este é o seu primeiro acesso, siga esta ordem:
 7. Organize os acessos em [usuários e equipe](organizacao-do-evento/equipe-do-evento.md).
 8. Aprenda a [cadastrar e gerenciar inscrições](inscricoes/gerenciar-inscricoes.md).
 9. Conheça o [financeiro da inscrição](inscricoes/financeiro-da-inscricao.md).
-10. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
+10. Organize a [ordem das provas e a programação do evento](dia-da-prova/ordem-e-baterias.md).
+11. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
 
 ## Como esta documentação está organizada
 
