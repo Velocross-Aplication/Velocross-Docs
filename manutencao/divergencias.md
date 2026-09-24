@@ -66,6 +66,14 @@ Este arquivo apoia a manutenção da documentação e não faz parte da navegaç
 
 **Decisão editorial:** explicar que o efeito operacional depende da regra de número da moto: a bateria aparece na cronometragem quando ela está habilitada e organiza o lançamento manual quando está desabilitada. Manter claro que inscrições, classificações e pontuação continuam separadas por categoria.
 
+### DOC-011 — Remoção do resultado de bateria mesclada
+
+**Frontend:** a confirmação de **Limpar Resultados** informa que serão apagados os resultados publicados “desta categoria”, inclusive quando a tela representa uma bateria mesclada.
+
+**Backend:** a remoção é feita para a bateria inteira. Em uma bateria mesclada, ela apaga o resultado geral, os resultados individuais das duas categorias e os pontos vinculados a esses resultados.
+
+**Decisão editorial:** explicar o efeito sobre a bateria inteira e orientar a conferência das duas categorias antes de confirmar **Limpar Resultados**. Não repetir no manual a referência da mensagem a uma única categoria.
+
 ## Observações de navegação
 
 ### DOC-006 — Menu geral de relatórios sem atalho atual

@@ -36,7 +36,8 @@ Se este é o seu primeiro acesso, siga esta ordem:
 9. Conheça o [financeiro da inscrição](inscricoes/financeiro-da-inscricao.md).
 10. Saiba como trabalhar com [categorias mescladas](dia-da-prova/categorias-mescladas.md).
 11. Organize a [ordem das provas e a programação do evento](dia-da-prova/ordem-e-baterias.md).
-12. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
+12. Aprenda a fazer a [cronometragem das baterias](dia-da-prova/cronometragem.md).
+13. Use o [mapa das funcionalidades](referencia/mapa-de-funcionalidades.md) para localizar cada área do sistema.
 
 ## Como esta documentação está organizada
 

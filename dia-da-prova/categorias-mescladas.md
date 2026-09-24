@@ -116,7 +116,7 @@ Depois de resolver o problema, volte a **Mesclar Categorias**, selecione novamen
 A mesclagem cria uma única bateria física para as duas categorias. Com isso:
 
 - a bateria aparece como um item em **Ordem das Provas**;
-- o cronometrista vê uma lista conjunta de pilotos quando a cronometragem está habilitada;
+- o cronometrista vê uma lista conjunta de pilotos quando a [cronometragem](cronometragem.md) está habilitada;
 - no lançamento manual, a bateria física é identificada, mas cada categoria mantém seu próprio resultado;
 - um piloto inscrito nas duas categorias aparece uma vez na ordem geral da bateria;
 - a classificação é separada novamente por categoria;
@@ -152,7 +152,7 @@ As categorias voltam a ser provas separadas e recuperam a ordem relativa que pos
 
 ## Quando não for possível desfazer
 
-Uma mesclagem com resultado salvo não pode ser desfeita. Primeiro, o resultado da bateria precisa ser removido por uma conta com a permissão correspondente. A remoção de resultados será explicada no capítulo de cronometragem ou de resultados manuais.
+Uma mesclagem com resultado salvo não pode ser desfeita. Primeiro, o resultado da bateria precisa ser removido por uma conta com a permissão correspondente. Para resultados publicados pela cronometragem, consulte [cronometragem das baterias](cronometragem.md). A remoção no lançamento manual será detalhada no capítulo correspondente.
 
 O sistema também pode impedir o desfazimento quando a separação deixaria identificações duplicadas dentro de uma categoria.
 

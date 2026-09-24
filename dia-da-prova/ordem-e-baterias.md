@@ -88,7 +88,7 @@ Essa regra mantém a mesma referência na ficha distribuída à equipe durante o
 
 Depois de salva, a sequência das baterias é usada:
 
-- na lista de provas da cronometragem;
+- na [lista de provas da cronometragem](cronometragem.md);
 - em **Fichas da Prova**;
 - nos relatórios que oferecem a opção **Ordem das Provas**.
 
