@@ -13,7 +13,7 @@ Para usar a cronometragem, é necessário:
 - possuir permissão para cronometrar e enviar resultados;
 - usar uma [regra de número da moto](../organizacao-do-evento/categorias-pacotes-e-regras.md) que permita cronometragem.
 
-A cronometragem fica disponível nas regras **Único por categoria** e **Duplicado com adesivo colorido**. Na regra **Duplicado sem cronometragem**, os resultados são lançados manualmente.
+A cronometragem fica disponível nas regras **Único por categoria** e **Duplicado com adesivo colorido**. Na regra **Duplicado sem cronometragem**, use o [lançamento manual de resultados](resultados-manuais.md).
 
 Se uma opção não aparecer para a sua conta, consulte [perfis e permissões](../comecando/perfis-e-permissoes.md).
 
@@ -226,7 +226,7 @@ Confira as duas categorias antes de confirmar. A remoção também deixa a bater
 | Situação | Como proceder |
 | --- | --- |
 | **Nenhum evento ativo** | Solicite ao organizador que confira qual evento está ativo. A cronometragem não trabalha sobre um evento histórico. |
-| **Cronometragem desabilitada para este evento** | A regra **Duplicado sem cronometragem** está ativa. Use o lançamento manual de resultados ou solicite ao organizador a revisão da configuração antes da prova. |
+| **Cronometragem desabilitada para este evento** | A regra **Duplicado sem cronometragem** está ativa. Use o [lançamento manual de resultados](resultados-manuais.md) ou solicite ao organizador a revisão da configuração antes da prova. |
 | **Sem permissão para cronometrar este evento** | Solicite ao organizador a revisão das permissões da conta. |
 | Bateria sem pilotos | Confira se existem inscrições ativas nas categorias da bateria. |
 | Bateria não encontrada ou lista desatualizada | Atualize a lista. Se houve alteração de ordem ou mesclagem, confira novamente a bateria correta. |

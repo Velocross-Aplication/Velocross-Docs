@@ -25,6 +25,7 @@
 - [Ordem das provas e programação](dia-da-prova/ordem-e-baterias.md)
 - [Categorias mescladas](dia-da-prova/categorias-mescladas.md)
 - [Cronometragem das baterias](dia-da-prova/cronometragem.md)
+- [Lançamento manual de resultados](dia-da-prova/resultados-manuais.md)
 
 ## Referência
 
